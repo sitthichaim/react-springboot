@@ -1,0 +1,10 @@
+/.DS_Store
+/.project
+/.settings/
+frontend/build
+frontend/node
+frontend/node_modules
+frontend/target
+backend/target
+backend/.vscode
+frontend/.vscode
